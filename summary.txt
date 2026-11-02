@@ -1,0 +1,19 @@
+This file is a automatically generated summary of parts needed as of Monday, November 02 09:27 AM
+
+
+Fri Oct 23 09:57:23 AM EDT 2026.csv 
+
+Customer: MOS Service Department 
+Part Number: MX-B42DF 
+Description: DF Roller Kit 
+Quantity: 1-10 
+Reason: Nicholas took last one
+
+
+Fri Oct 30 02:33:07 PM EDT 2026.csv 
+
+Customer: MOS Service Department 
+Part Number: NBLTH0565FCZZ 
+Description: 2nd transfer belt 
+Quantity: 1 
+Reason: Needed to rebuild a Shop MX-230U2
